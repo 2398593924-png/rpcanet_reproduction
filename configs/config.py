@@ -2,7 +2,7 @@ import torch
 
 # Device
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
+ 
 # Dataloader Settings
 dataset_path = "./datasets"
 batch_size = 4
