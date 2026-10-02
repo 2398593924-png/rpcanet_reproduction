@@ -27,7 +27,7 @@
 - matplotlib 3.10.8
 
 ## 数据集
-本项目使用STARE数据集(STructured Analysis of the Retina)用于训练，数据集可从官网(https://cecas.clemson.edu/~ahoover/stare/)获取。
+本项目使用STARE数据集(STructured Analysis of the Retina)用于训练，数据集可从官网获取：https://cecas.clemson.edu/~ahoover/stare/
 下载好数据集后，请将原始图像和对应的label分别放置在`./datasets/images`下和`./datasets/labels`下。
 
 ## 参数配置
